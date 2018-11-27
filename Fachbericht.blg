@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Fachbericht.aux
+The style file: IEEEtran.bst
+A level-1 auxiliary file: sections/abstract.aux
+A level-1 auxiliary file: sections/technical/Auftragsbeschreibung.aux
+A level-1 auxiliary file: sections/organizational/Ziele_p5_p6.aux
+A level-1 auxiliary file: sections/technical/MCU.aux
+A level-1 auxiliary file: sections/technical/RTC.aux
+A level-1 auxiliary file: sections/technical/Sensoren.aux
+A level-1 auxiliary file: sections/technical/Datenspeicherung.aux
+A level-1 auxiliary file: sections/technical/Kommunikationsmodul.aux
+A level-1 auxiliary file: sections/technical/Energieversorgung.aux
+A level-1 auxiliary file: sections/technical/Konzeptvalidierung.aux
+A level-1 auxiliary file: sections/appendix.aux
+Database file #1: literature/bibliography.bib
+Warning--entry type for "ladyada2018" isn't style-file defined
+--line 39 of file literature/bibliography.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There was 1 warning)
