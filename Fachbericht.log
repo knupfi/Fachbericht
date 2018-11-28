@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.24)  27 NOV 2018 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.24)  28 NOV 2018 15:11
 entering extended mode
 **./Fachbericht.tex
 (Fachbericht.tex
@@ -1383,6 +1383,14 @@ ty"
 \WF@everypar=\toks42
 Package: wrapfig 2003/01/31  v 3.6
 )
+("C:\Users\Andres\AppData\Local\Programs\MiKTeX 2.9\tex\latex\romannum\romannum
+.sty"
+Package: romannum 2009/09/03 v1.0b roman numerals
+
+("C:\Users\Andres\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stdclsdv\stdclsdv
+.sty"
+Package: stdclsdv 2009/09/04 v1.1a Sectional divisions
+))
 ("C:\Users\Andres\AppData\Local\Programs\MiKTeX 2.9\tex\latex\standalone\standa
 lone.sty"
 Package: standalone 2018/03/26 v1.3a Package to include TeX sub-files with prea
@@ -1882,7 +1890,7 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 10.
 ("C:\Users\Andres\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<fhnwlogo.pdf, id=78, 183.81773pt x 28.4543pt>
+<fhnwlogo.pdf, id=82, 183.81773pt x 28.4543pt>
 File: fhnwlogo.pdf Graphic file (type pdf)
 <use fhnwlogo.pdf>
 Package pdftex.def Info: fhnwlogo.pdf  used on input line 16.
@@ -1911,30 +1919,18 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
  [1
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 ...e{sections/technical/Auftragsbeschreibung}
-                                                   [1
+] [1
 
 ]
 \openout2 = `sections/technical/Auftragsbeschreibung.aux'.
 
-
-(sections/technical/Auftragsbeschreibung.tex)pdfTeX warning (ext4): destination
- with the same identifier (name{page.2}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.54 ...e{sections/technical/Auftragsbeschreibung}
-                                                   [2
+ (sections/technical/Auftragsbeschreibung.tex)
+[2
 
 ]
 \openout2 = `sections/organizational/Ziele_p5_p6.aux'.
 
-
-(sections/organizational/Ziele_p5_p6.tex
+ (sections/organizational/Ziele_p5_p6.tex
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
@@ -1961,7 +1957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
 
 (sections/technical/Sensoren.tex
-<graphics/Kipploeffel.png, id=164, 564.1075pt x 363.3575pt>
+<graphics/Kipploeffel.png, id=171, 564.1075pt x 363.3575pt>
 File: graphics/Kipploeffel.png Graphic file (type png)
 <use graphics/Kipploeffel.png>
 Package pdftex.def Info: graphics/Kipploeffel.png  used on input line 12.
@@ -1974,7 +1970,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-(sections/technical/subsections/anemometer.tex) [8]) [9]
+(sections/technical/subsections/anemometer.tex
+<graphics/Anemometer/anemometer.png, id=182, 198.7425pt x 138.5175pt>
+File: graphics/Anemometer/anemometer.png Graphic file (type png)
+<use graphics/Anemometer/anemometer.png>
+Package pdftex.def Info: graphics/Anemometer/anemometer.png  used on input line
+ 7.
+(pdftex.def)             Requested size: 156.14978pt x 108.8358pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 8.
+See the caption package documentation for explanation.
+
+) [8]) [9 <./graphics/Anemometer/anemometer.png>]
 \openout2 = `sections/technical/Datenspeicherung.aux'.
 
 
@@ -1987,7 +1996,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 4.
-<graphics/Datenspeicherung/micro_sd_card_breakout.png, id=188, 192.72pt x 144.5
+<graphics/Datenspeicherung/micro_sd_card_breakout.png, id=201, 192.72pt x 144.5
 4pt>
 File: graphics/Datenspeicherung/micro_sd_card_breakout.png Graphic file (type p
 ng)
@@ -1999,41 +2008,91 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 8.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 8.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 15.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 14.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 16.
 ("C:\Users\Andres\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+[10
+
+
+ <./graphics/Datenspeicherung/micro_sd_card_breakout.png>]
+Underfull \hbox (badness 3078) in paragraph at lines 27--28
+\T1/lmr/m/n/10.95 Sla-ve se-lek-tiert. Groÿe Vor-tei-le von SPI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+<graphics/Datenspeicherung/spi_master_slave.png, id=223, 331.2375pt x 103.38625
+pt>
+File: graphics/Datenspeicherung/spi_master_slave.png Graphic file (type png)
+<use graphics/Datenspeicherung/spi_master_slave.png>
+Package pdftex.def Info: graphics/Datenspeicherung/spi_master_slave.png  used o
+n input line 31.
+(pdftex.def)             Requested size: 232.17197pt x 72.4661pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 32.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 ...cher SPI-Datenbus \cite{Wikipedia2018spi}}
+                                                  
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 24.
+(hyperref)                removing `math shift' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mu' on input line 24.
+(hyperref)                removing `\mu' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 24.
+(hyperref)                removing `math shift' on input line 37.
 
-<graphics/Datenspeicherung/micro_sd_card_16GB.png, id=192, 301.125pt x 301.125p
-t>
+<graphics/Datenspeicherung/micro_sd_card_16GB.png, id=226, 155.58125pt x 113.42
+375pt>
 File: graphics/Datenspeicherung/micro_sd_card_16GB.png Graphic file (type png)
 <use graphics/Datenspeicherung/micro_sd_card_16GB.png>
 Package pdftex.def Info: graphics/Datenspeicherung/micro_sd_card_16GB.png  used
- on input line 27.
-(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
+ on input line 40.
+(pdftex.def)             Requested size: 80.12218pt x 58.41127pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 41.
+See the caption package documentation for explanation.
 
-) [10
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
 
 
- <./graphics/Datenspeicherung/micro_sd_card_breakout.png>] [11 <./graphics/Date
-nspeicherung/micro_sd_card_16GB.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+[11 <./graphics/Datenspeicherung/spi_master_slave.png> <./graphics/Datenspeiche
+rung/micro_sd_card_16GB.png>]
+<graphics/Datenspeicherung/read_write_examples.PNG, id=248, 357.83687pt x 612.2
+875pt>
+File: graphics/Datenspeicherung/read_write_examples.PNG Graphic file (type png)
+
+<use graphics/Datenspeicherung/read_write_examples.PNG>
+Package pdftex.def Info: graphics/Datenspeicherung/read_write_examples.PNG  use
+d on input line 58.
+(pdftex.def)             Requested size: 227.62204pt x 389.48027pt.
+) [12 <./graphics/Datenspeicherung/read_write_examples.PNG>]
 \openout2 = `sections/technical/Kommunikationsmodul.aux'.
 
-
-(sections/technical/Kommunikationsmodul.tex) [12
+ (sections/technical/Kommunikationsmodul.tex) [13
 
 
 ]
@@ -2043,22 +2102,45 @@ nspeicherung/micro_sd_card_16GB.png>]
 No file sections/technical/Energieversorgung.tex.
 \openout2 = `sections/technical/Konzeptvalidierung.aux'.
 
-(sections/technical/Konzeptvalidierung.tex) [13
+(sections/technical/Konzeptvalidierung.tex) [14
 
 
 
 
-] (Fachbericht.bbl) [14
+] (Fachbericht.bbl
+Underfull \hbox (badness 2189) in paragraph at lines 26--30
+[]\T1/lmr/m/n/10.95 Amazon. Er-satz Sen-sor Wind-ge-schwin-dig-keit für Frog-gi
+t WH1080
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+\T1/lmr/m/n/10.95 WH3080 WH1090. [On-li-ne]. Availa-ble: []$https : / / www . a
+mazon . de /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+\T1/lmr/m/n/10.95 Ersatz-[]Sensor-[]Windgeschwindigkeit-[]Froggit-[]WH1080 / dp
+ / B00GGM5HEA / ref = pd _ rhf _
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 55--59
+[]\T1/lmr/m/n/10.95 ------. SD/SD-H-C/S-DXC Spe-zi-fi-ka-tio-nen und Kom-pa-ti-
+bi-li-tä-ten. [On-li-
+ []
+
+) [15
 
 ]
 \openout2 = `sections/appendix.aux'.
 
-
-(sections/appendix.tex
+ (sections/appendix.tex
 
 pdfTeX warning: pdflatex (file ./appendix/Auftragsbeschreibung.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<appendix/Auftragsbeschreibung.pdf, id=224, 597.55246pt x 845.07724pt>
+<appendix/Auftragsbeschreibung.pdf, id=282, 597.55246pt x 845.07724pt>
 File: appendix/Auftragsbeschreibung.pdf Graphic file (type pdf)
 <use appendix/Auftragsbeschreibung.pdf>
 Package pdftex.def Info: appendix/Auftragsbeschreibung.pdf  used on input line 
@@ -2081,7 +2163,7 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./appendix/Auftragsbeschreibung.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<appendix/Auftragsbeschreibung.pdf, id=227, page=1, 597.55246pt x 845.07724pt>
+<appendix/Auftragsbeschreibung.pdf, id=285, page=1, 597.55246pt x 845.07724pt>
 File: appendix/Auftragsbeschreibung.pdf Graphic file (type pdf)
 <use appendix/Auftragsbeschreibung.pdf, page 1>
 Package pdftex.def Info: appendix/Auftragsbeschreibung.pdf , page1 used on inpu
@@ -2107,7 +2189,7 @@ File: appendix/Auftragsbeschreibung.pdf Graphic file (type pdf)
 Package pdftex.def Info: appendix/Auftragsbeschreibung.pdf , page1 used on inpu
 t line 2.
 (pdftex.def)             Requested size: 507.92198pt x 718.31905pt.
-[15
+[16
 
  <./appendix/Auftragsbeschreibung.pdf>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
@@ -2122,34 +2204,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 (sections/technical/Konzeptvalidierung.aux) (sections/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
-
-
-Package rerunfilecheck Warning: File `Fachbericht.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Fachbericht.out':
-(rerunfilecheck)             Before: 566CAE3E6AB6FB38650A6AB33E83890D;1120
-(rerunfilecheck)             After:  508979B42FE03548895BA1A007BF52BE;1120.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Fachbericht.out' has not changed.
+(rerunfilecheck)             Checksum: 4E6C54BBAD2A54EFE31D0207285AAE52;1205.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 43197 strings out of 492972
- 915824 string characters out of 3126178
- 1239912 words of memory out of 3000000
- 46271 multiletter control sequences out of 15000+200000
+ 43397 strings out of 492972
+ 920134 string characters out of 3126178
+ 1241210 words of memory out of 3000000
+ 46442 multiletter control sequences out of 15000+200000
  641419 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,19n,81p,1078b,992s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
+ 64i,19n,84p,1078b,992s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
 
-{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
-}{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
-t.enc}{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit
+.enc}{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-e
+c.enc}{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-
 ts1.enc}{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
 m-rm.enc}{C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/
 lm-mathsy.enc}<C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
@@ -2157,21 +2235,22 @@ blic/lm/lmbx10.pfb><C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/public/lm/lmbx12.pfb><C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/lm/lmmi10.pfb><C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/lm/lmmi12.pfb><C:/Users/Andres/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/Andres/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/Andres/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/Andres/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Users/Andres/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/Andres/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Users/Andres/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/Andres/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Users/Andr
-es/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Use
-rs/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C
-:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pf
-b>
-Output written on Fachbericht.pdf (18 pages, 895273 bytes).
+X 2.9/fonts/type1/public/lm/lmmi9.pfb><C:/Users/Andres/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/Andres/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/Andres/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/Andres/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Users/Andres/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/Andres/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Users/Andres/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/Andre
+s/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Users/
+Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:
+/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pf
+b><C:/Users/Andres/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy
+8.pfb>
+Output written on Fachbericht.pdf (19 pages, 1085450 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 390 PDF objects out of 1000 (max. 8388607)
+ 65 named destinations out of 1000 (max. 500000)
+ 220 words of extra memory for PDF output out of 10000 (max. 10000000)
 
