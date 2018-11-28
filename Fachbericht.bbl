@@ -21,7 +21,40 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{AmazonAnemometer}
+\BIBentryALTinterwordspacing
+Amazon. {Ersatz Sensor Windgeschwindigkeit für Froggit WH1080 WH3080 WH1090}.
+  [Online]. Available:
+  \url{https://www.amazon.de/Ersatz-Sensor-Windgeschwindigkeit-Froggit-WH1080/dp/B00GGM5HEA/ref=pd_rhf_eetyp_p_img_1?_encoding=UTF8&psc=1&refRID=4R5P7RRF8H7RC3A4KAHQ}
+\BIBentrySTDinterwordspacing
+
 \bibitem{ladyada2018}
 {Lady Ada}, ``{Micro SD Card Breakout Board Tutorial},'' 2018.
+
+\bibitem{spi}
+\BIBentryALTinterwordspacing
+mikrocontroller.net. (unbekannt) Serial peripheral interface. [Online].
+  Available:
+  \url{https://www.mikrocontroller.net/articles/Serial_Peripheral_Interface}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Wikipedia2018spi}
+\BIBentryALTinterwordspacing
+Wikipedia. (2018) Serial peripheral interface. [Online]. Available:
+  \url{https://de.wikipedia.org/wiki/Serial_Peripheral_Interface}
+\BIBentrySTDinterwordspacing
+
+\bibitem{musdkarte}
+\BIBentryALTinterwordspacing
+SanDisk. {SanDisk microSDHC Speicherkarte}. [Online]. Available:
+  \url{https://www.sandisk.de/home/memory-cards/microsd-cards/sandisk-microsd}
+\BIBentrySTDinterwordspacing
+
+\bibitem{muSDspez}
+\BIBentryALTinterwordspacing
+------. {SD/SDHC/SDXC Spezifikationen und Kompatibilitäten}. [Online].
+  Available:
+  \url{https://kb-de.sandisk.com/app/answers/detail/a_id/8317/~/sd%2Fsdhc%2Fsdxc-spezifikationen-und-kompatibilit%C3%A4ten}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}

@@ -74,7 +74,7 @@
 }
 
 @Online{AmazonAnemometer,
-  author = {Amazon},
+  editor = {Amazon},
   title  = {{Ersatz Sensor Windgeschwindigkeit für Froggit WH1080 WH3080 WH1090}},
   url    = {https://www.amazon.de/Ersatz-Sensor-Windgeschwindigkeit-Froggit-WH1080/dp/B00GGM5HEA/ref=pd_rhf_eetyp_p_img_1?_encoding=UTF8&psc=1&refRID=4R5P7RRF8H7RC3A4KAHQ},
 }
