@@ -43,6 +43,7 @@
   institution = {Adafruit Industries},
   year        = {2018},
   date        = {2018-09-17},
+  url         = {https://cdn-learn.adafruit.com/downloads/pdf/adafruit-micro-sd-breakout-board-card-tutorial.pdf?timestamp=1543256513},
   urldate     = {2018-11-28},
 }
 
@@ -93,6 +94,23 @@
   title   = {{Benetech GM8908 Digital Anemometer}},
   year    = {keine Angabe},
   url     = {https://www.amazon.com/Benetech-GM8908-Digital-Anemometer-10/dp/B074TDR5YQ},
+  urldate = {2018-11-30},
+}
+
+@Misc{arduinoMega,
+  author  = {Arduino},
+  title   = {{Arduino Mega 2560 Datasheet}},
+  year    = {keine Angabe},
+  type    = {techreport},
+  url     = {https://www.robotshop.com/media/files/pdf/arduinomega2560datasheet.pdf},
+  urldate = {2018-11-30},
+}
+
+@Online{ArduinoPinMapping2018,
+  author  = {Arduino},
+  title   = {{ATmega2560-Arduino Pin Mapping}},
+  year    = {2018},
+  url     = {\url{https://www.arduino.cc/en/Hacking/PinMapping2560}},
   urldate = {2018-11-30},
 }
 

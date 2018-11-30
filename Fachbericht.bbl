@@ -19,6 +19,36 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{arduinoMega}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={Arduino},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Arduino Mega 2560 Datasheet}}
+      \field{type}{techreport}
+      \field{urlday}{30}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{keine Angabe}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.robotshop.com/media/files/pdf/arduinomega2560datasheet.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.robotshop.com/media/files/pdf/arduinomega2560datasheet.pdf
+      \endverb
+    \endentry
     \entry{AmazonAnemometer}{online}{}
       \name{author}{1}{}{%
         {{hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
@@ -31,8 +61,8 @@
       \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
       \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
       \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Ersatz Sensor Windgeschwindigkeit für Froggit WH1080 WH3080 WH1090}}
@@ -60,8 +90,8 @@
       \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
       \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
       \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Benetech GM8908 Digital Anemometer}}
@@ -92,8 +122,8 @@
       \strng{authorbibnamehash}{a246da9dbf29558a8a46cc2f0127b341}
       \strng{authornamehash}{a246da9dbf29558a8a46cc2f0127b341}
       \strng{authorfullhash}{a246da9dbf29558a8a46cc2f0127b341}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{17}
@@ -125,8 +155,8 @@
       \strng{authorbibnamehash}{76060c799998a600fed273150f7bb11d}
       \strng{authornamehash}{76060c799998a600fed273150f7bb11d}
       \strng{authorfullhash}{76060c799998a600fed273150f7bb11d}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{28}
@@ -158,8 +188,8 @@
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{28}
@@ -234,6 +264,35 @@
       \endverb
       \verb{url}
       \verb https://kb-de.sandisk.com/app/answers/detail/a_id/8317/~/sd%2Fsdhc%2Fsdxc-spezifikationen-und-kompatibilit%C3%A4ten
+      \endverb
+    \endentry
+    \entry{ArduinoPinMapping2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={Arduino},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ATmega2560-Arduino Pin Mapping}}
+      \field{urlday}{30}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.arduino.cc/en/Hacking/PinMapping2560
+      \endverb
+      \verb{url}
+      \verb https://www.arduino.cc/en/Hacking/PinMapping2560
       \endverb
     \endentry
   \enddatalist
