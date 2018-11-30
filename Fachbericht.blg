@@ -1,22 +1,18 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Fachbericht.aux
-The style file: IEEEtran.bst
-A level-1 auxiliary file: sections/abstract.aux
-A level-1 auxiliary file: sections/technical/Auftragsbeschreibung.aux
-A level-1 auxiliary file: sections/organizational/Ziele_p5_p6.aux
-A level-1 auxiliary file: sections/technical/MCU.aux
-A level-1 auxiliary file: sections/technical/RTC.aux
-A level-1 auxiliary file: sections/technical/Sensoren.aux
-A level-1 auxiliary file: sections/technical/Datenspeicherung.aux
-A level-1 auxiliary file: sections/technical/Kommunikationsmodul.aux
-A level-1 auxiliary file: sections/technical/Energieversorgung.aux
-A level-1 auxiliary file: sections/technical/Konzeptvalidierung.aux
-A level-1 auxiliary file: sections/appendix.aux
-Database file #1: literature/bibliography.bib
-Warning--entry type for "ladyada2018" isn't style-file defined
---line 39 of file literature/bibliography.bib
--- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
--- http://www.michaelshell.org/tex/ieeetran/bibtex/
--- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-
-Done.
-(There was 1 warning)
+[1] Config.pm:302> INFO - This is Biber 2.11
+[2] Config.pm:305> INFO - Logfile is 'Fachbericht.blg'
+[144] biber-MSWIN64:313> INFO - === 
+[249] Biber.pm:371> INFO - Reading 'Fachbericht.bcf'
+[710] Biber.pm:857> INFO - Found 6 citekeys in bib section 0
+[782] Biber.pm:3976> INFO - Processing section 0
+[839] Biber.pm:4136> INFO - Looking for bibtex format file 'literature/bibliography.bib' for section 0
+[852] bibtex.pm:1500> INFO - LaTeX decoding ...
+[896] bibtex.pm:1316> INFO - Found BibTeX data source 'literature/bibliography.bib'
+[944] Utils.pm:193> WARN - year field 'unbekannt' in entry 'spi' is not an integer - this will probably not sort properly.
+[946] Utils.pm:193> WARN - Overwriting field 'year' with year value from field 'date' for entry 'spi'
+[1084] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1085] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1085] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[1086] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[1128] bbl.pm:617> INFO - Writing 'Fachbericht.bbl' with encoding 'UTF-8'
+[1137] bbl.pm:720> INFO - Output to Fachbericht.bbl
+[1141] Biber.pm:110> INFO - WARNINGS: 2

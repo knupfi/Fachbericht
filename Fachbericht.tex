@@ -62,7 +62,12 @@ Einleitung
 \include{sections/technical/Konzeptvalidierung}
 
 %%---BIBLIOGRAPHY------------------------------------------------------------------------
-\bibliography{literature/bibliography}
+{\sloppypar
+\printbibliography[heading=bibintoc]
+\label{sec:lit}
+%\selectlanguage{english}				%ngerman or english
+%\printbibliography[heading=bibintoc]
+}
 
 %%---APPENDIX----------------------------------------------------------------------------
 \include{sections/appendix}
