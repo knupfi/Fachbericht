@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  30 NOV 2018 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.25)  30 NOV 2018 11:46
 entering extended mode
 **./Fachbericht.tex
 (Fachbericht.tex
@@ -2509,10 +2509,6 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `Fachbericht.out' has not changed.
 (rerunfilecheck)             Checksum: 9E215439E40CCEFA4E5919C492FB284B;1205.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'Fachbericht.run.xml'.
 \openout1 = `Fachbericht.run.xml'.
 
@@ -2521,7 +2517,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
 Here is how much of TeX's memory you used:
  49770 strings out of 492972
  1043461 string characters out of 3126178
- 1594646 words of memory out of 3000000
+ 1594626 words of memory out of 3000000
  52742 multiletter control sequences out of 15000+200000
  641738 words of font info for 87 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2559,7 +2555,7 @@ Anders/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:
 b><C:/Users/Anders/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy
 8.pfb><C:/Users/Anders/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
 lmtt10.pfb>
-Output written on Fachbericht.pdf (19 pages, 1289444 bytes).
+Output written on Fachbericht.pdf (19 pages, 1290566 bytes).
 PDF statistics:
  397 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
