@@ -1977,16 +1977,18 @@
   <bcf:section number="0">
     <bcf:citekey order="1">AmazonAnemometer</bcf:citekey>
     <bcf:citekey order="2">AmazonAnemometer</bcf:citekey>
-    <bcf:citekey order="3">ladyada2018</bcf:citekey>
-    <bcf:citekey order="4">ladyada2018</bcf:citekey>
+    <bcf:citekey order="3">digitalesAnemometerBenetech</bcf:citekey>
+    <bcf:citekey order="4">digitalesAnemometerBenetech</bcf:citekey>
     <bcf:citekey order="5">ladyada2018</bcf:citekey>
-    <bcf:citekey order="6">spi</bcf:citekey>
-    <bcf:citekey order="7">Wikipedia2018spi</bcf:citekey>
-    <bcf:citekey order="8">Wikipedia2018spi</bcf:citekey>
+    <bcf:citekey order="6">ladyada2018</bcf:citekey>
+    <bcf:citekey order="7">ladyada2018</bcf:citekey>
+    <bcf:citekey order="8">spi</bcf:citekey>
     <bcf:citekey order="9">Wikipedia2018spi</bcf:citekey>
-    <bcf:citekey order="10">musdkarte</bcf:citekey>
-    <bcf:citekey order="11">musdkarte</bcf:citekey>
-    <bcf:citekey order="12">muSDspez</bcf:citekey>
+    <bcf:citekey order="10">Wikipedia2018spi</bcf:citekey>
+    <bcf:citekey order="11">Wikipedia2018spi</bcf:citekey>
+    <bcf:citekey order="12">musdkarte</bcf:citekey>
+    <bcf:citekey order="13">musdkarte</bcf:citekey>
+    <bcf:citekey order="14">muSDspez</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

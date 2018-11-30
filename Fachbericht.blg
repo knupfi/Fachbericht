@@ -1,18 +1,22 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'Fachbericht.blg'
-[32] biber-MSWIN64:313> INFO - === 
-[64] Biber.pm:371> INFO - Reading 'Fachbericht.bcf'
-[154] Biber.pm:857> INFO - Found 6 citekeys in bib section 0
+[33] biber-MSWIN64:313> INFO - === 
+[65] Biber.pm:371> INFO - Reading 'Fachbericht.bcf'
+[154] Biber.pm:857> INFO - Found 7 citekeys in bib section 0
 [171] Biber.pm:3976> INFO - Processing section 0
-[186] Biber.pm:4136> INFO - Looking for bibtex format file 'literature/bibliography.bib' for section 0
-[210] bibtex.pm:1500> INFO - LaTeX decoding ...
-[251] bibtex.pm:1316> INFO - Found BibTeX data source 'literature/bibliography.bib'
-[277] Utils.pm:193> WARN - year field 'unbekannt' in entry 'spi' is not an integer - this will probably not sort properly.
-[278] Utils.pm:193> WARN - Overwriting field 'year' with year value from field 'date' for entry 'spi'
-[305] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[305] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[306] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[306] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[315] bbl.pm:617> INFO - Writing 'Fachbericht.bbl' with encoding 'UTF-8'
-[317] bbl.pm:720> INFO - Output to Fachbericht.bbl
-[322] Biber.pm:110> INFO - WARNINGS: 2
+[187] Biber.pm:4136> INFO - Looking for bibtex format file 'literature/bibliography.bib' for section 0
+[193] bibtex.pm:1500> INFO - LaTeX decoding ...
+[209] bibtex.pm:1316> INFO - Found BibTeX data source 'literature/bibliography.bib'
+[214] Utils.pm:193> WARN - year field 'keine Angabe' in entry 'AmazonAnemometer' is not an integer - this will probably not sort properly.
+[218] Utils.pm:193> WARN - year field 'keine Angabe' in entry 'digitalesAnemometerBenetech' is not an integer - this will probably not sort properly.
+[225] Utils.pm:193> WARN - year field 'keine Angabe' in entry 'spi' is not an integer - this will probably not sort properly.
+[225] Utils.pm:193> WARN - Overwriting field 'year' with year value from field 'date' for entry 'spi'
+[232] Utils.pm:193> WARN - year field 'keine Angabe' in entry 'musdkarte' is not an integer - this will probably not sort properly.
+[235] Utils.pm:193> WARN - year field 'keine Angabe' in entry 'muSDspez' is not an integer - this will probably not sort properly.
+[253] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[253] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[254] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[254] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[264] bbl.pm:617> INFO - Writing 'Fachbericht.bbl' with encoding 'UTF-8'
+[266] bbl.pm:720> INFO - Output to Fachbericht.bbl
+[271] Biber.pm:110> INFO - WARNINGS: 6
